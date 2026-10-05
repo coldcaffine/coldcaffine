@@ -1,6 +1,6 @@
 ## Hi, I'm Aditi 👋
 
-CS & Business Systems student at JSPM's Rajarshi Shahu College of Engineering, Pune. I build web apps and I'm looking for a software internship where I can ship real features and learn fast.
+CS & Business Systems student. I build web apps and I'm looking for a software internship where I can ship real features and learn fast.
 
 ### 🛠️ Tech I use
 - **Languages:** Python, C, HTML, learning C++
